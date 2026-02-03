@@ -1,5 +1,5 @@
 # ✨Camden Forbes
-![rotating penguin](https://tenor.com/view/linux-tux-rotate-gif-24807752)
+<img src = "https://tenor.com/view/linux-tux-rotate-gif-24807752" />
 I’m a Computer Engineering Senior at San Jose State University. I’m passionate about Linux and integrating multiple technologies to make valuable projects. As well, I'm a big fan of working close to the system and understanding how things work under the hood.
 
 ### Languages & Tools
