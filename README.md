@@ -1,4 +1,4 @@
-# ✨Camden Forbes
+#Camden Forbes
 <img src = "./git.gif" />
 I’m a Computer Engineering Senior at San Jose State University. I’m passionate about Linux and integrating multiple technologies to make valuable projects. As well, I'm a big fan of working close to the system and understanding how things work under the hood.
 
